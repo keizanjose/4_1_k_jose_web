@@ -1,0 +1,11 @@
+{
+  "name": "4_1_k_jose_web",
+  "version": "1.0.0",
+  "description": "this is an example of full stack web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keizan jose",
+  "license": "ISC"
+}
