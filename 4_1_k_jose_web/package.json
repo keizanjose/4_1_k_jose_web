@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/keizanjose/4_1_k_jose_web#readme",
   "dependencies": {
+    "bootstrap": "^5.3.2",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "nodemon": "^3.0.1"
